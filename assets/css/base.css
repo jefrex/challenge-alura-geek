@@ -1,0 +1,24 @@
+:root {
+    --azul: #2A7AE4;
+    --branco: #FFF;
+
+    --bg-escuro: #EAF2FD;
+    --bg-iput-pesquisa: #F5F5F5;
+
+
+    --fonte-padrao: #464646;
+    --placeholder: #A2A2A2;
+
+}
+
+body {
+    color: var(--fonte-padrao);
+    font-family: 'Raleway', sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    margin-left: 152px;
+    margin-right: 152px;
+}
